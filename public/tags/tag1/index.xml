@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Hugo tranquilpeak theme</title>
+    <link>https://example.org/tags/tag1/</link>
+    <description>Recent content in tag1 on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 16:12:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 01 Hello</title>
+      <link>https://example.org/grade/day-01-hello/</link>
+      <pubDate>Tue, 02 Feb 2021 16:12:40 +0800</pubDate>
+      
+      <guid>https://example.org/grade/day-01-hello/</guid>
+      <description>Day nn. {title} 前言 write something cool&amp;hellip;
+主要內容 write something cool&amp;hellip;
+小結 write something cool&amp;hellip;
+參考連結    </description>
+    </item>
+    
+    <item>
+      <title>My First Page</title>
+      <link>https://example.org/page/my-first-page/</link>
+      <pubDate>Tue, 02 Feb 2021 15:38:47 +0800</pubDate>
+      
+      <guid>https://example.org/page/my-first-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Thirdly Post</title>
+      <link>https://example.org/2021/02/my-thirdly-post/</link>
+      <pubDate>Tue, 02 Feb 2021 15:37:51 +0800</pubDate>
+      
+      <guid>https://example.org/2021/02/my-thirdly-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

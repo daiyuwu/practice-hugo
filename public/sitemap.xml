@@ -3,26 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2020-12-09T10:25:29+08:00</lastmod>
+    <loc>https://example.org/grade/nested/</loc>
+    <lastmod>2021-02-02T16:43:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2020-12-09T10:25:29+08:00</lastmod>
+    <loc>https://example.org/grade/</loc>
+    <lastmod>2021-02-02T16:43:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-12-09T10:25:29+08:00</lastmod>
+    <loc>https://example.org/</loc>
+    <lastmod>2021-02-02T16:43:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.org/grade/nested/nested-01/</loc>
+    <lastmod>2021-02-02T16:43:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://example.org/grade/day-01-hello/</loc>
+    <lastmod>2021-02-02T16:12:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag1/</loc>
+    <lastmod>2021-02-02T16:12:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2021-02-02T16:12:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/category/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/my-first-page/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/subcategory/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag2/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag3/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag4/</loc>
+    <lastmod>2021-02-02T15:38:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/2021/02/my-thirdly-post/</loc>
+    <lastmod>2021-02-02T15:37:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/</loc>
+    <lastmod>2021-02-02T15:37:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag5/</loc>
+    <lastmod>2021-02-02T15:37:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/tag6/</loc>
+    <lastmod>2021-02-02T15:37:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/archives/</loc>
   </url>
   
 </urlset>

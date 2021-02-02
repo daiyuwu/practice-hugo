@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grades on Hugo tranquilpeak theme</title>
+    <link>https://example.org/grade/</link>
+    <description>Recent content in Grades on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 16:43:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/grade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 01 Hello</title>
+      <link>https://example.org/grade/day-01-hello/</link>
+      <pubDate>Tue, 02 Feb 2021 16:12:40 +0800</pubDate>
+      
+      <guid>https://example.org/grade/day-01-hello/</guid>
+      <description>Day nn. {title} 前言 write something cool&amp;hellip;
+主要內容 write something cool&amp;hellip;
+小結 write something cool&amp;hellip;
+參考連結    </description>
+    </item>
+    
+  </channel>
+</rss>

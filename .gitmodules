@@ -4,3 +4,9 @@
 [submodule "themes/mixedpaper"]
 	path = themes/mixedpaper
 	url = https://github.com/wayjam/hugo-theme-mixedpaper.git
+[submodule "themes/themes/tranquilpeak"]
+	path = themes/themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
